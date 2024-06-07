@@ -21,6 +21,9 @@ echo .
 ::
 :: NOTE: disabled Services, the start DWORD is 04
 ::      automatic Services, the start DWORD is 02
+echo You are about to enable and disable a bunch of services to make the environment less secure.
+echo echo Are you sure? Press CTRL-C to QUIT now
+pause
 
 
 
