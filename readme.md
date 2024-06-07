@@ -1,6 +1,8 @@
-This set of files is to help configure an intentionally vulnerable Windows Server 2003 for the purpose of penetration test study. In your lab, you shall locate and install a copy of Windows 2003 server (unpatched) - preferably at Service Pack 1 build. Once done, then you can download and run these dehardening scripts.
+This set of files is to help configure an intentionally vulnerable Windows Server 2003 for the purpose of penetration test study.
 
-There are three directories; Policies ; SecurityPolicies ; Services
+In your lab, you shall locate and install a copy of Windows 2003 server (unpatched) - preferably at Service Pack 1 build. Once this is done, then you can download and run these dehardening scripts.
+
+There are three directories in the repo, namely; Policies ; SecurityPolicies ; Services
 
 In the Policies folder, run the batch file unhardenpolicies.bat to set a number of Windows policies.
 
